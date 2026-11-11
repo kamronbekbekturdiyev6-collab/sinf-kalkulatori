@@ -15,4 +15,5 @@ print(dec(7,2))
 
 #3 commit
 def ayirish(a,b):
-    return  
+    return  a-b
+print(ayirish(17,5))
